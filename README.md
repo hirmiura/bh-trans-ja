@@ -22,9 +22,9 @@ Book of Hours
         │   ├ *.json (culturesを除くサブフォルダ以下の全て)
         │   │
         │   └ cultures/
-        │       ├ en/cultures.json
+        │       ├ en/culture.json
         │       │ ↓コピーして翻訳
-        │       └ ja/cultures.json (ロケール設定, coreに置く)
+        │       └ ja/culture.json (ロケール設定, coreに置く)
         │
         └ loc_ja/
             └ 翻訳済みファイルを置く
