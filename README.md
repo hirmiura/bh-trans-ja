@@ -2,6 +2,12 @@
 
 Book of Hours 翻訳支援スクリプト
 
+## TL;DR (3行で)
+
+`git clone https://github.com/hirmiura/bh-trans-ja.git` して、ゴニョゴニョする。  
+`make build-edit` で出来た `build/edit.po` を [Poedit] とかで良い感じに翻訳する。  
+`make all` すると、packageディレクトリに `bhcontent` が出来るので [Book of Hours] の該当箇所にコピーする。
+
 ## 翻訳対象
 
 ### ディレクトリ構成
@@ -29,6 +35,7 @@ Book of Hours
 * 未翻訳データは出力しない
 * 必須キー: id
 * 1ファイルに出す `ja.json`
+* `culture.json` は特別扱いする
 
 ## 流れ
 
@@ -85,10 +92,20 @@ Book of Hours
    * `msgfmt --statistics -o ja.mo ja.po`
 
 6. 翻訳ファイルを生成する
-   * `gen_trans.py < ja.mo`
+   * `gentrans.py -c bhtrans.toml`
      * `cultures.json`は特別に処理する
      * データ構造を戻す
        * `dict[type, dict[id, item]]` -> `dict[type, list[item]]`
      * 一括で`loc_ja/ja.json`に書き出す
 
 7. 配布用zipを作る
+
+## ライセンス
+
+[MIT License] としています。
+
+---
+
+[Book of Hours]: https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/
+[poedit]: https://poedit.net/
+[MIT License]: https://opensource.org/license/mit/
