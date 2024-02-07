@@ -1,0 +1,34 @@
+# 設定ファイル
+input_json = 'build/core.json'
+output_pot = 'build/core.pot'
+
+input_mo       = 'build/ja.mo'
+output_json    = 'build/ja.json'
+output_culture = 'build/culture.json'
+
+pid_version = 'core.json Version 2024.1.e.9'
+
+[rules.achievements]
+extracts = [ '.+/(label|descriptionunlocked)$' ]
+
+[rules.cultures]
+msgctxt  = true
+extracts = [ '/en/uilabels/[^/]+$' ]
+
+[rules.decks]
+extracts = [ '.+/(label|desc)$' ]
+
+[rules.elements]
+extracts = [ '.+/(label|desc|description)$', '.+/xexts/[^/]+$' ]
+
+[rules.endings]
+extracts = [ '.+/(label|desc)$' ]
+
+[rules.legacies]
+extracts = [ '.+/(label|desc|startdescription)$' ]
+
+[rules.recipes]
+extracts = [ '.+/(label|desc|startdescription)$' ]
+
+[rules.verbs]
+extracts = [ '.+/(label|desc|description)$' ]

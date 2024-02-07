@@ -1,0 +1,81 @@
+[tool.poetry]
+name = "bh-trans-ja"
+version = "0.1.0"
+description = ""
+authors = [ "Hiroshi Miura <hirmiura@gmail.com>" ]
+license = "MIT"
+readme = "README.md"
+packages = [ { include = "bin" } ]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+]
+
+[tool.poetry.dependencies]
+python      = "^3.12"
+pydantic    = "^2.6"
+chardet     = "^5.2"
+dirtyjson   = "^1.0"
+jsonpath-ng = "^1.6"
+polib = "^1.2.0"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy   = "^1.8"
+pytest = "^8.0"
+types-polib = "^1.2.0.20240115"
+
+
+[build-system]
+requires      = [ "poetry-core" ]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.mypy]
+ignore_missing_imports = true
+no_implicit_optional   = true
+warn_redundant_casts   = true
+warn_unused_ignores    = false
+
+
+[tool.ruff]
+exclude = [
+    ".git",
+    ".mypy_cache",
+    ".pytest_cache",
+    ".ruff_cache",
+    ".venv",
+    ".vscode",
+    "__pycache__",
+]
+line-length = 100
+target-version = "py312"
+
+
+[tool.ruff.lint]
+select = [ "E", "F", "W", "C", "I", "N", "D", "UP", "G", "Q" ]
+ignore = [ "D400", "D415" ]
+
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = [ "E402" ]
+
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+
+[tool.pyright]
+include = [ "bin" ]
+exclude = [
+    ".git",
+    ".mypy_cache",
+    ".pytest_cache",
+    ".ruff_cache",
+    ".venv",
+    ".vscode",
+    "**/__pycache__",
+]
+pythonVersion = "3.12"
+pythonPlatform = "Linux"
