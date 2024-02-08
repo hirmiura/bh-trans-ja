@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-08 03:52+0900\n"
+"PO-Revision-Date: 2024-02-08 23:08+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -17,6 +17,9 @@ msgid ""
 "\n"
 " [YOU CAN ONLY UNLOCK ONE ROOM AT A TIME.]"
 msgstr ""
+"\n"
+"\n"
+" [一度にアンロックできるのは1部屋だけです]"
 
 msgid ""
 "\n"
@@ -50,11 +53,11 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_MINUTES_POSTFIX"
 msgid " min"
-msgstr ""
+msgstr " 分"
 
 msgctxt "/cultures/en/uilabels/UI_SECONDS_POSTFIX"
 msgid " sec"
-msgstr ""
+msgstr " 秒"
 
 msgid "!"
 msgstr ""
@@ -2822,7 +2825,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_MUSICVOL_TOOLTIP"
 msgid "(Find the Music Player on the left)"
-msgstr ""
+msgstr "(左側のミュージック・プレーヤーを見つけてください)"
 
 msgid "(Look within)"
 msgstr ""
@@ -3136,7 +3139,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_BOOKSHELF_EDITABLE_PLACEHOLDER"
 msgid "-- UNLABELLED --"
-msgstr ""
+msgstr "-- ラベルなし --"
 
 msgid "."
 msgstr ""
@@ -3240,6 +3243,9 @@ msgid ""
 "\n"
 " If you're worried you might be stuck... there's usually another way.</i>"
 msgstr ""
+"<I>落ち着いていこう。BOOK OF HOURS は寛容な種類のゲームです。\n"
+"\n"
+"あなたは行き詰まりを心配するかもしれないが、たいていは別の方法があります。</i>"
 
 msgid ""
 "<i>Here are the sparks of revolution. When the Carapace-kind return, they will return to Noon. </i>\n"
@@ -7420,7 +7426,7 @@ msgid "Autosave Interval"
 msgstr ""
 
 msgid "Autumn"
-msgstr ""
+msgstr "秋"
 
 msgid "Autumn [Paused]"
 msgstr ""
@@ -7475,7 +7481,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_BOOKSHELF_LABEL"
 msgid "BOOKSHELF"
-msgstr ""
+msgstr "書架"
 
 msgid "Back Stairs"
 msgstr ""
@@ -7914,7 +7920,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_BOOKSHELF_DESCRIPTION"
 msgid "Books live happily upright here, but other things are permitted to join them."
-msgstr ""
+msgstr "本たちはここで幸せに直立して生きているが、他のものがそれに加わることは許されている。"
 
 msgid "Books written in Houndsgall are more likely to return to their owner, or one to whom they have been legitimately sold. An Ink of Containment."
 msgstr ""
@@ -8823,18 +8829,18 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_CARD"
 msgid "Card"
-msgstr ""
+msgstr "カード"
 
 msgctxt "/cultures/en/uilabels/UI_CARD_TRAYS_HEADER"
 msgid "Card Trays"
-msgstr ""
+msgstr "カードトレイ"
 
 msgid "Cardea's Delights"
 msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_EMPTYSPACE"
 msgid "Cards and objects can go here; but not all cards, or all objects"
-msgstr ""
+msgstr "カードや物をここに置けますが、全てのカードや物を置ける訳ではありません"
 
 msgid "Carefully mark the creamy paper."
 msgstr ""
@@ -9302,7 +9308,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_COLLECTALL"
 msgid "Collect Results"
-msgstr ""
+msgstr "結果の収集"
 
 msgid "Collected Hush House Lectures"
 msgstr ""
@@ -11839,7 +11845,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSAVEINTERVAL_TOOLTIP"
 msgid "Every time the game autosaves, it makes a backup of the last file (up to 14 at a time)"
-msgstr ""
+msgstr "オートセーブのたびに最後のファイルをバックアップします。(14個まで)"
 
 msgid "Every traveller crosses a threshold twice. The Horned-Axe is the Hour who faces both ways at every threshold."
 msgstr ""
@@ -11859,6 +11865,9 @@ msgid ""
 "\n"
 "[Game loaded successfully.]"
 msgstr ""
+"すべては記憶される。ハッシュハウスは耐え忍ぶ。\n"
+"\n"
+"[ゲームは正常にロードされました]"
 
 msgid "Everything ultimately comes down to a choice between Eternity and History. There's only one place you're safe from both, and it's not a place anyone would want to be. It's a prison that can only exist in certain Histories...  [Any Librarian can use this to establish a History and complete the game - but the Prodigal and the Archaeologist can win a particular victory.]"
 msgstr ""
@@ -12573,7 +12582,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_ASPECTSFORBIDDEN"
 msgid "Forbidden: "
-msgstr ""
+msgstr "禁止: "
 
 msgid "Force of Personality"
 msgstr ""
@@ -12985,7 +12994,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_NEXTCOMPLETE"
 msgid "Go to Next Complete Recipe"
-msgstr ""
+msgstr "次の終了したレシピへ行く"
 
 msgid "Goatskin? Antelope? Some scarred leather that catches at my memory. I should know."
 msgstr ""
@@ -13614,7 +13623,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_CONTRAST"
 msgid "High Contrast Mode"
-msgstr ""
+msgstr "高コントラストモード"
 
 msgid "Hill & Hollow"
 msgstr ""
@@ -14963,7 +14972,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_SHOW_NOTIFICATION_COPY_TO_CLIPBOARD_TOOLTIP"
 msgid "If ticked, show the text that you've just copied to the clipboard"
-msgstr ""
+msgstr "チェックすると、クリップボードにコピーしたテキストを表示します"
 
 msgid "If we know those deepest rules, we know what even the Chancel and the Calyptra may not do..."
 msgstr ""
@@ -14982,6 +14991,8 @@ msgid ""
 "If you'd rather always have the uncluttered Hush House experience, tick this box.\n"
 "(Needs a reload or restart.)"
 msgstr ""
+"常にすっきりとしたハッシュハウスを体験したい場合は、このボックスをチェックしてください。\n"
+"(リロードまたは再起動が必要)"
 
 msgid "If you're new to BOOK OF HOURS... you might not realise just how far you can zoom in with the scroll wheel."
 msgstr ""
@@ -16303,7 +16314,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_LANGUAGE"
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 msgid "Language is a scar. It was language that tore open the Mansus; without language, we could have had no wars; without language, we would still be fire, sky, earth. [Adds Knock and Winter to your journal; replaces any other Speech Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]"
 msgstr ""
@@ -16384,7 +16395,7 @@ msgstr "左"
 
 msgctxt "/cultures/en/uilabels/UI_DRAGHINT_TEXT"
 msgid "Left-click to interact with objects and rooms; right-click or use cursor keys to move your view around (or change keys in Settings)."
-msgstr ""
+msgstr "左クリックで物や部屋を操作し、右クリックかカーソルキーで視野を移動します。(あるいは設定でキーを変更します)"
 
 msgctxt "/cultures/en/uilabels/UI_DRAGHINT_TEXT_OSX"
 msgid ""
@@ -17197,7 +17208,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_MASTERVOL"
 msgid "Master Volume"
-msgstr ""
+msgstr "主音量"
 
 msgid "Mastery: Birdsong"
 msgstr ""
@@ -17366,7 +17377,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSORTOVERLAP_MEMORIES"
 msgid "Memories"
-msgstr ""
+msgstr "追憶"
 
 msgid "Memories and Lessons"
 msgstr ""
@@ -17414,13 +17425,13 @@ msgid "Memory crossed, hatched, lined, snapped. [A defeat when Scale is present 
 msgstr ""
 
 msgid "Memory: A Stolen Secret"
-msgstr ""
+msgstr "追憶: A Stolen Secret"
 
 msgid "Memory: Chor?"
 msgstr ""
 
 msgid "Memory: Contradiction"
-msgstr ""
+msgstr "追憶: Contradiction"
 
 msgid "Memory: Ereb?"
 msgstr ""
@@ -17432,67 +17443,67 @@ msgid "Memory: Fet?"
 msgstr ""
 
 msgid "Memory: Foresight"
-msgstr ""
+msgstr "追憶: 先見"
 
 msgid "Memory: Gossip"
-msgstr ""
+msgstr "追憶: ゴシップ"
 
 msgid "Memory: Hindsight"
-msgstr ""
+msgstr "追憶: 後知恵"
 
 msgid "Memory: Impulse"
-msgstr ""
+msgstr "追憶: 衝動"
 
 msgid "Memory: Intuition"
-msgstr ""
+msgstr "追憶: 直観"
 
 msgid "Memory: Loss"
-msgstr ""
+msgstr "追憶: 喪失"
 
 msgid "Memory: Mettle?"
 msgstr ""
 
 msgid "Memory: Pattern"
-msgstr ""
+msgstr "追憶: 様式"
 
 msgid "Memory: Phost?"
 msgstr ""
 
 msgid "Memory: Regret"
-msgstr ""
+msgstr "追憶: 後悔"
 
 msgid "Memory: Revelation"
-msgstr ""
+msgstr "追憶: 天啓"
 
 msgid "Memory: Salt"
-msgstr ""
+msgstr "追憶: 塩"
 
 msgid "Memory: Satisfaction"
-msgstr ""
+msgstr "追憶: 満足"
 
 msgid "Memory: Scent"
-msgstr ""
+msgstr "追憶: 香り"
 
 msgid "Memory: Shapt?"
 msgstr ""
 
 msgid "Memory: Sight"
-msgstr ""
+msgstr "追憶: 光景"
 
 msgid "Memory: Solace"
-msgstr ""
+msgstr "追憶: 慰め"
 
 msgid "Memory: Sound"
-msgstr ""
+msgstr "追憶: 音"
 
 msgid "Memory: Storm"
-msgstr ""
+msgstr "追憶: 嵐"
 
 msgid "Memory: Taste"
-msgstr ""
+msgstr "追憶: 味"
 
 msgid "Memory: Touch"
-msgstr ""
+msgstr "追憶: 接触"
 
 msgid "Memory: Trist?"
 msgstr ""
@@ -17519,7 +17530,7 @@ msgid "Messana: a prosperous little desert village that has become, in recent ye
 msgstr ""
 
 msgid "Metal"
-msgstr ""
+msgstr "金属"
 
 msgid "Metallurgist, gourmet, corrupted immortal. And, supposedly, a long-ago king's by-blow."
 msgstr ""
@@ -18073,11 +18084,11 @@ msgid "Musgrave, fourth of the Dewulf line, writes tentatively about the 'Covena
 msgstr ""
 
 msgid "Music"
-msgstr ""
+msgstr "音楽"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_MUSICVOL"
 msgid "Music"
-msgstr ""
+msgstr "音楽"
 
 msgid "Music waits here."
 msgstr ""
@@ -18487,11 +18498,11 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_ASPECTSESSENTIAL"
 msgid "Needs (all of): "
-msgstr ""
+msgstr "全て必要: "
 
 msgctxt "/cultures/en/uilabels/UI_ASPECTSREQUIRED"
 msgid "Needs (at least one): "
-msgstr ""
+msgstr "どれかが必要: "
 
 msgid "Neither bright nor dark."
 msgstr ""
@@ -18747,7 +18758,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_LANGSWITCHNOTES"
 msgid "Note: we recommend starting a new game after you switch languages. Switching mid-game can cause issues with the display of some text."
-msgstr ""
+msgstr "注意: 言語を切り替えた後は、新しいゲームを始めることをお勧めします。ゲーム中に切り替えると、テキストの表示に問題が起きることがあります。"
 
 msgid "Notes on Bindings"
 msgstr ""
@@ -19909,7 +19920,7 @@ msgstr "ポーズ"
 
 msgctxt "/cultures/en/uilabels/UI_PAUSE_NOTIFICATIONS"
 msgid "Pause These Notifications"
-msgstr ""
+msgstr "通知を停止する"
 
 msgid "Pausing Season"
 msgstr ""
@@ -20073,7 +20084,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_PERPETUAL_EDITION"
 msgid "Perpetual Edition"
-msgstr ""
+msgstr "永続版"
 
 msgid "Persian Candelabra"
 msgstr ""
@@ -20489,7 +20500,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_ACCESSIBLE_CARDS_TOOLTIP"
 msgid "Projects a larger, more easily readable version of the card on mouseover"
-msgstr ""
+msgstr "マウスオーバー時に、より大きく読みやすいカードが表示されます"
 
 msgid "Proof against storm-wind and moth-swoop alike."
 msgstr ""
@@ -20510,7 +20521,7 @@ msgid "Pulverised grains, bread's precursor."
 msgstr ""
 
 msgid "Pumpkin"
-msgstr ""
+msgstr "かぼちゃ"
 
 msgid "Pumps: Lower Level"
 msgstr ""
@@ -20725,7 +20736,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_ASKCONFIRM_NEWGAME"
 msgid "Really start a new game, overwriting your save?"
-msgstr ""
+msgstr "セーブを上書きして、新しいゲームを始めますか？"
 
 msgid "Rebirth"
 msgstr ""
@@ -20915,11 +20926,11 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_REFILLSLOTS"
 msgid "Refill Slots"
-msgstr ""
+msgstr "再充填"
 
 msgctxt "/cultures/en/uilabels/UI_REFILL_HINT"
 msgid "Refill slots with recently used items"
-msgstr ""
+msgstr "最近使用したアイテムでスロットを補充する"
 
 msgid ""
 "Refine memory to something of Rose. \n"
@@ -21161,7 +21172,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_RESOLUTION"
 msgid "Resolution"
-msgstr ""
+msgstr "解像度"
 
 msgid "Resolve Sthenic Taint"
 msgstr ""
@@ -21204,7 +21215,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/GRAPHICS_NEEDS_RESTART"
 msgid "Restart the game for this change to take effect."
-msgstr ""
+msgstr "この変更を有効にするには、ゲームを再起動してください。"
 
 msgid "Restful Garden Chair"
 msgstr ""
@@ -21371,7 +21382,7 @@ msgstr "右"
 
 msgctxt "/cultures/en/uilabels/UI_KB_CLICKMODIFIERDESC"
 msgid "Right-Click or Double-Click - Send to Open Slot"
-msgstr ""
+msgstr "右クリックかダブルクリック - 空きスロットに送る"
 
 msgid "Rime rims the moor-tarns."
 msgstr ""
@@ -21526,7 +21537,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_SAFEMODE"
 msgid "Safe Mode"
-msgstr ""
+msgstr "セーフモード"
 
 msgid "Safety in Oblivion"
 msgstr ""
@@ -21571,7 +21582,7 @@ msgid "Samuel Savage's satirical comedy, on the intrigues of the ailing, but cun
 msgstr ""
 
 msgid "Sand"
-msgstr ""
+msgstr "砂"
 
 msgid "Sand Stories"
 msgstr ""
@@ -21600,18 +21611,18 @@ msgstr "セーブ"
 
 msgctxt "/cultures/en/uilabels/UI_SAVEEXIT"
 msgid "Save & Exit"
-msgstr ""
+msgstr "セーブして終了"
 
 msgctxt "/cultures/en/uilabels/UI_SAVEGAME"
 msgid "Save Game"
-msgstr ""
+msgstr "セーブ"
 
 msgid "Save your game if you're worried about what might happen next"
 msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_SAVES"
 msgid "Saves"
-msgstr ""
+msgstr "セーブ"
 
 msgid "Saw"
 msgstr ""
@@ -21714,7 +21725,7 @@ msgid "Scratch tiny symbols on the flimsy form."
 msgstr ""
 
 msgid "Scroll"
-msgstr ""
+msgstr "巻物"
 
 msgid "Scrumpy"
 msgstr ""
@@ -21771,7 +21782,7 @@ msgid "Searching Conversations at the Sweet Bones"
 msgstr ""
 
 msgid "Season"
-msgstr ""
+msgstr "季節"
 
 msgid "Seasoning"
 msgstr ""
@@ -22069,7 +22080,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_SHOW_NOTIFICATION_COPY_TO_CLIPBOARD"
 msgid "Show Notifications for Copy to Clipboard"
-msgstr ""
+msgstr "クリップボードへのコピーの通知を表示"
 
 msgid "Shrine to St Tentreto"
 msgstr ""
@@ -22198,7 +22209,7 @@ msgid "Skaptodon Fang"
 msgstr ""
 
 msgid "Skill"
-msgstr ""
+msgstr "スキル"
 
 msgid "Skill without effort is like tea without boiling water. No-one wants to eat tea-leaves. [Add a Soul card.] "
 msgstr ""
@@ -22208,7 +22219,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSORTOVERLAP_SKILLS"
 msgid "Skills"
-msgstr ""
+msgstr "スキル"
 
 msgid "Skin of Silver"
 msgstr ""
@@ -22283,7 +22294,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_SLOT"
 msgid "Slot: "
-msgstr ""
+msgstr "スロット: "
 
 msgid "Sly Alembic"
 msgstr ""
@@ -22765,11 +22776,11 @@ msgid "Sort, mix, concentrate: an odd set of compounds with a variety of uses. (
 msgstr ""
 
 msgid "Soul"
-msgstr ""
+msgstr "ソウル"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSORTOVERLAP_ABILITIES"
 msgid "Soul"
-msgstr ""
+msgstr "ソウル"
 
 msgid "Soul?"
 msgstr ""
@@ -22779,14 +22790,14 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_SFXVOL"
 msgid "Sound Effects"
-msgstr ""
+msgstr "効果音"
 
 msgid "SoundCuts"
 msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_SFXVOL_TOOLTIP"
 msgid "Sounds when you drag or click things"
-msgstr ""
+msgstr "ドラッグやクリックしたときの音"
 
 msgid "Souvenir Cache"
 msgstr ""
@@ -22946,7 +22957,7 @@ msgid "Splash cautiously through the shallower tunnels."
 msgstr ""
 
 msgid "Spring"
-msgstr ""
+msgstr "春"
 
 msgid "Spring [Paused]"
 msgstr ""
@@ -23025,7 +23036,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_STARTRECIPE"
 msgid "Start Recipe"
-msgstr ""
+msgstr "レシピ開始"
 
 msgid "Steal eggs from the sea-birds, or find what the sea-birds have stolen."
 msgstr ""
@@ -23081,7 +23092,7 @@ msgid "Stolen Histories"
 msgstr ""
 
 msgid "Stone"
-msgstr ""
+msgstr "石"
 
 msgid "Stone Stories"
 msgstr ""
@@ -23105,7 +23116,7 @@ msgid "Stories written in fire end all the sooner... but are remembered all the 
 msgstr ""
 
 msgid "Storm"
-msgstr ""
+msgstr "嵐"
 
 msgid "Storm-Tossed Mirror"
 msgstr ""
@@ -23138,10 +23149,10 @@ msgid "Straw-Cushioned Chair"
 msgstr ""
 
 msgid "Stray Cat"
-msgstr ""
+msgstr "迷い猫"
 
 msgid "Stray Dog"
-msgstr ""
+msgstr "迷い犬"
 
 msgid "Strengthen my Wist"
 msgstr ""
@@ -23219,7 +23230,7 @@ msgid "Sullen heat still roils below. Its originator must be long gone, but it m
 msgstr ""
 
 msgid "Summer"
-msgstr ""
+msgstr "夏"
 
 msgid "Summer [Paused]"
 msgstr ""
@@ -23229,7 +23240,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSORTOVERLAP_MISC"
 msgid "Sundry"
-msgstr ""
+msgstr "雑貨"
 
 msgid "Sunny"
 msgstr ""
@@ -23280,7 +23291,7 @@ msgid "Suspicion Allayed, Already"
 msgstr ""
 
 msgid "Sustenance"
-msgstr ""
+msgstr "食物"
 
 msgid "Swaddled Thunder"
 msgstr ""
@@ -23413,16 +23424,16 @@ msgid "Take counsel with the skies."
 msgstr ""
 
 msgid "Talk"
-msgstr ""
+msgstr "話す"
 
 msgid "Talk about the Weather"
-msgstr ""
+msgstr "天気について話す"
 
 msgid "Talk to Mr Kille"
-msgstr ""
+msgstr "ミスターKilleと話す"
 
 msgid "Talk to Mrs Kille"
-msgstr ""
+msgstr "Kille夫人と話す"
 
 msgid "Tall Candelabra"
 msgstr ""
@@ -23476,7 +23487,7 @@ msgid "Techniques proposed by the Haustorium - the most inaccessible and upsetti
 msgstr ""
 
 msgid "Telescope"
-msgstr ""
+msgstr "望遠鏡"
 
 msgid "Ten Shilling Note"
 msgstr ""
@@ -25699,6 +25710,9 @@ msgid ""
 "\n"
 "You can restore your previous mod configuration. Keep in mind it can cause a crash again."
 msgstr ""
+"ゲーム起動時にクラッシュしました。すべてのMODを無効にし、セーフモードにしました。\n"
+"\n"
+"以前のMOD設定に戻すことができますが、再びクラッシュする可能性があることに留意してください。"
 
 msgid ""
 "The gaol bridge still stands, but charred and twisted. It groans dangerously in the wind. A fire, then, but what fire does this? It's as if someone had trailed a match-flame along a bridge of wax.\n"
@@ -26461,7 +26475,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_WEATHERVOL_TOOLTIP"
 msgid "The sounds of the sky"
-msgstr ""
+msgstr "空の音"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_ENVIRONMENTVOL_TOOLTIP"
 msgid "The sounds of the waves, the winds, the village"
@@ -28228,7 +28242,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_UISCALING"
 msgid "UI Scaling"
-msgstr ""
+msgstr "UIスケーリング"
 
 msgctxt "/cultures/en/uilabels/UI_KB_TOGGLE_HUD"
 msgid "UI Show/Hide"
@@ -28236,7 +28250,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_ROOMINPUT_LABEL"
 msgid "UNLOCK"
-msgstr ""
+msgstr "アンロック"
 
 msgid "UNRELEAS'D"
 msgstr ""
@@ -28399,11 +28413,11 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_UNIQUE"
 msgid "Unique: Can only exist once"
-msgstr ""
+msgstr "ユニーク: 1つしか存在しない"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_UNLOCK_ALL_RESOLUTIONS"
 msgid "Unlock All Resolutions"
-msgstr ""
+msgstr "全ての解像度を表示"
 
 msgid "Unlocking"
 msgstr ""
@@ -28451,7 +28465,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_UPDATE"
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 msgid "Upholstered in a velvet of peculiar richness that invites the hand."
 msgstr ""
@@ -28464,7 +28478,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_UPLOAD"
 msgid "Upload"
-msgstr ""
+msgstr "アップロード"
 
 msgid "Upper Pump Room"
 msgstr ""
@@ -28875,7 +28889,7 @@ msgstr "ビデオ"
 
 msgctxt "/cultures/en/uilabels/UI_OPEN_WISDOMS"
 msgid "View the Tree of Wisdoms"
-msgstr ""
+msgstr "ツリー・オブ・ウィスダムを見る"
 
 msgid "Vigil"
 msgstr ""
@@ -29131,7 +29145,7 @@ msgid "Walkies are surely a small price to pay for his unshakeable fidelity."
 msgstr ""
 
 msgid "Wall Art"
-msgstr ""
+msgstr "壁掛けアート"
 
 msgid "Walter Dewulf, 3rd Baron Brancrug, was grandson of Thomas, son of the disgraced Giles, who eloped with 'Pale Hafren'. The Dewulf line might have ended here if the Seneschale Ernestine - by then over eighty - had not managed to reconcile Thomas with a dying Giles."
 msgstr ""
@@ -29203,7 +29217,7 @@ msgid "Water trickles like tears from broken pipes in the ceiling, splashing ove
 msgstr ""
 
 msgid "Watering Can"
-msgstr ""
+msgstr "じょうろ"
 
 msgid "We Arose from the Filth of the Wood"
 msgstr ""
@@ -29248,11 +29262,11 @@ msgid "Weary wrist? Shift-click sends to the nearest workstation; ctrl-click to 
 msgstr ""
 
 msgid "Weather"
-msgstr ""
+msgstr "天気"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_WEATHERVOL"
 msgid "Weather"
-msgstr ""
+msgstr "天候"
 
 msgid "Weather draw: Autumn"
 msgstr ""
@@ -29292,7 +29306,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_LOADEDTITLE"
 msgid "Welcome back, Librarian"
-msgstr ""
+msgstr "おかえりなさい、司書さん"
 
 msgid "Well"
 msgstr ""
@@ -29497,6 +29511,8 @@ msgid ""
 "What time of day is it? Impossible to tell.\n"
 "The storm has robbed me of the sky..."
 msgstr ""
+"何時頃だろう？わからない。\n"
+"嵐が私から空を奪った……"
 
 msgid "What visitors might be passing through? [Find out what unusual passersby might be looking for employment.]"
 msgstr ""
@@ -29704,7 +29720,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_OPT_CONTRAST_TOOLTIP"
 msgid "White rather than yellow in text windows"
-msgstr ""
+msgstr "テキストウィンドウを黄色から白にします"
 
 msgid "White, the First Flower"
 msgstr ""
@@ -29799,7 +29815,7 @@ msgid "Winning Move"
 msgstr ""
 
 msgid "Winter"
-msgstr ""
+msgstr "冬"
 
 msgid "Winter [Fatigued]"
 msgstr ""
@@ -29820,22 +29836,22 @@ msgid "Winter: a Conclusion"
 msgstr ""
 
 msgid "Wire (Copper)"
-msgstr ""
+msgstr "ワイヤー(銅)"
 
 msgid "Wire (Gold)"
-msgstr ""
+msgstr "ワイヤー(金)"
 
 msgid "Wire (Orichalcum)"
-msgstr ""
+msgstr "ワイヤー(オリハルコン)"
 
 msgid "Wire (Silver)"
-msgstr ""
+msgstr "ワイヤー(銀)"
 
 msgid "Wire (Steel)"
-msgstr ""
+msgstr "ワイヤー(鋼鉄)"
 
 msgid "Wire (Tin)"
-msgstr ""
+msgstr "ワイヤー(錫)"
 
 msgid "Wires are strung tightly and crazily through this room, snaring the bed-legs to the window-latches, the window-latches to the wardrobe-handles. Every movement brings a ripple of musical <i>pings</i>. It'll need time and patience to unravel."
 msgstr ""
@@ -30289,7 +30305,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_WISDOMINPUT_DESCRIPTION"
 msgid "[Every skill could belong to one of two Wisdoms. Decide which by assigning it here. This will grow your understanding of the Wisdom, and reward you with an Element of the Soul card.]"
-msgstr ""
+msgstr "[すべてのスキルは2つのウィスダムのいずれかに属することが出来ます。それをここで指定します。そうすることでウィスダムに対する理解が深まり、エレメント・オブ・ソウルのカードが1枚もらえます。]"
 
 msgid "[Fundamental categories of power recognised by scholars of the Invisible Arts. Find these in soul cards, skills, memories, items; use them to succeed in studying and crafting challenges.]"
 msgstr ""
@@ -30419,7 +30435,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_ROOMINPUT_DESCRIPTION"
 msgid "[Unlock and refurbish rooms with assistance from villagers and outsiders. Use your Elements of the Soul to enhance their abilities and reach more challenging rooms.]"
-msgstr ""
+msgstr "[村人や部外者の助けを借りて、部屋をアンロックし改装します。エレメント・オブ・ソウルを使って能力を強化し、より難易度の高い部屋に到達しましょう。]"
 
 msgid "[Use your Many-Faceted Lesson wisely.]"
 msgstr ""
@@ -30770,6 +30786,9 @@ msgid ""
 "\n"
 "(inscribed in five languages over the gate of Hush House)"
 msgstr ""
+"「本は死ぬことのない記憶である」\n"
+"\n"
+"(ハッシュハウスの門に5ヶ国語で刻まれている)"
 
 msgid "…the final page is empty. The travelling kinds of the Carapace Cross might never return."
 msgstr ""
