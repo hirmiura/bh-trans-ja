@@ -34,7 +34,8 @@ Book of Hours
 
 * 未翻訳データは出力しない
 * 必須キー: id
-* 1ファイルに出す `ja.json`
+* ~~1ファイルに出す `ja.json`~~
+* BHはトップレベルキーを1つしか読み込まないので分ける `ja_*.json`
 * `culture.json` は特別扱いする
 
 ## 流れ
@@ -96,9 +97,15 @@ Book of Hours
      * `cultures.json`は特別に処理する
      * データ構造を戻す
        * `dict[type, dict[id, item]]` -> `dict[type, list[item]]`
-     * 一括で`loc_ja/ja.json`に書き出す
+     * ~~一括で`loc_ja/ja.json`に書き出す~~
+     * タイプ毎に`loc_ja/ja_*.json`に書き出す
 
 7. 配布用zipを作る
+
+## リファレンス
+
+* Book of Hoursの[日本語フォントの差し替えについて](https://steamcommunity.com/sharedfiles/filedetails/?id=3154220049)
+* [TextMesh Proを使用したUnity製ゲームのフォントの差し替え方法について](https://steamcommunity.com/sharedfiles/filedetails/?id=2869701209)
 
 ## ライセンス
 
