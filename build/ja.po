@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-08 23:08+0900\n"
+"PO-Revision-Date: 2024-02-08 23:27+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -87,6 +87,8 @@ msgid ""
 "$Go To Next Completed\n"
 "<size=60%><smallcaps>[{SETTING:kbnextcomplete}]</smallcaps>"
 msgstr ""
+"$次の終了済みに行く\n"
+"<size=60%><smallcaps>[{SETTING:kbnextcomplete}]</smallcaps>"
 
 msgctxt "/cultures/en/uilabels/UI_OVERFLOW"
 msgid ""
@@ -7419,7 +7421,7 @@ msgstr "著者"
 
 msgctxt "/cultures/en/uilabels/UI_KB_STACKCARDS"
 msgid "Auto-Arrange All Trays"
-msgstr ""
+msgstr "全トレイを整列"
 
 msgctxt "/cultures/en/uilabels/UI_OPT_AUTOSAVEINTERVAL"
 msgid "Autosave Interval"
@@ -22901,7 +22903,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_FASTER"
 msgid "Speed: Faster"
-msgstr ""
+msgstr "スピード: 早くする"
 
 msgctxt "/cultures/en/uilabels/UI_KB_NORMALSPEED"
 msgid "Speed: Normal"
@@ -22909,7 +22911,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/UI_KB_SLOWER"
 msgid "Speed: Slower"
-msgstr ""
+msgstr "スピード: 遅くする"
 
 msgid "Spice Scales"
 msgstr ""
@@ -27733,7 +27735,7 @@ msgid "Thunder prowls the entrance to this cave - a dying curse, or a capricious
 msgstr ""
 
 msgid "Thunder-roaring, lightning-lashed skies."
-msgstr ""
+msgstr "雷鳴が轟き、稲妻が走る空。"
 
 msgid "Thunderskin's Paean"
 msgstr ""
