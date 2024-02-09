@@ -2,9 +2,9 @@
 input_json = 'build/core.json'
 output_pot = 'build/core.pot'
 
-input_mo       = 'build/ja.mo'
-output_json    = 'build/ja.json'
-output_culture = 'build/culture.json'
+input_mo           = 'build/ja.mo'
+output_json_prefix = 'build/ja_'
+output_culture     = 'build/culture.json'
 
 pid_version = 'core.json Version 2024.1.e.9'
 

@@ -17,7 +17,7 @@ class BhTransConf(BaseModel):
     output_pot: str
 
     input_mo: str
-    output_json: str
+    output_json_prefix: str
     output_culture: str
 
     pid_version: str = "0.1"

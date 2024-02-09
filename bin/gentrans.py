@@ -191,19 +191,18 @@ def save_others(trans_obj: CoreObjT, core_obj: CoreObjT):
     """
     assert trans_obj
     assert core_obj
-    bh_obj: BhObjT = {}
     for grp in trans_obj:
+        bh_obj: BhObjT = {}
         if grp == "cultures":
             continue
         if grp not in bh_obj:
             bh_obj[grp] = []
         for v in trans_obj[grp].values():
             bh_obj[grp].append(v)
-    # ファイルに保存する
-    Path(config.output_json).write_text(
-        json.dumps(bh_obj, ensure_ascii=False, separators=(",", ":"))
-    )
-    logger.info("%s に出力しました", config.output_json)
+        # ファイルに保存する
+        file = config.output_json_prefix + grp + ".json"
+        Path(file).write_text(json.dumps(bh_obj, ensure_ascii=False, separators=(",", ":")))
+        logger.info("%s に出力しました", file)
 
 
 def merge_dict(d1: dict, d2: dict) -> dict:

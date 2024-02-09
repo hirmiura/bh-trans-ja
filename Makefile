@@ -20,7 +20,7 @@ F_COREPOT  := $(D_BUILD)/core.pot
 F_EDITPO   := $(D_BUILD)/edit.po
 F_JAPO     := $(D_BUILD)/ja.po
 F_JAMO     := $(D_BUILD)/ja.mo
-F_JAJSON   := $(D_BUILD)/ja.json
+F_JAJSON_PAT := $(D_BUILD)/ja_*.json
 F_CULTURE  := $(D_BUILD)/culture.json
 
 B_EXTRACT  := $(D_BIN)/extract.py
@@ -191,12 +191,12 @@ clean-mo:
 #==============================================================================
 # ja.jsonとculture.jsonの作成
 .PHONY: build-trans clean-trans
-build-trans: $(F_JAJSON) $(F_CULTURE)
-$(F_JAJSON) $(F_CULTURE): $(F_JAMO) $(F_COREJSON) $(F_BHTRANSCONF) $(B_GENTRANS)
+build-trans: $(F_CULTURE)
+$(F_CULTURE): $(F_JAMO) $(F_COREJSON) $(F_BHTRANSCONF) $(B_GENTRANS)
 	poetry run $(B_GENTRANS) -c $(F_BHTRANSCONF)
 
 clean-trans:
-	rm -f $(F_JAJSON) $(F_CULTURE)
+	rm -f $(F_CULTURE) $(F_JAJSON_PAT)
 
 
 #==============================================================================
@@ -209,9 +209,7 @@ packaging: $(F_JAJSON)
 	if [[ -f "$(F_CULTURE)" ]] ; then \
 		cp -f "$(F_CULTURE)" $(D_PACKAGE)/bhcontent/core/cultures/ja ; \
 	fi
-	if [[ -f "$(F_JAJSON)" ]] ; then \
-		cp -f $(F_JAJSON) $(D_PACKAGE)/bhcontent/loc_ja ; \
-	fi
+	cp -f $(F_JAJSON_PAT) $(D_PACKAGE)/bhcontent/loc_ja
 	$(eval V_BH := $(shell head -1 $(F_BHVERSION) | sed -Ee "s/\s+$$//"))
 	rm -f bhja-$(V_BH).zip
 	cd $(D_PACKAGE) ; zip -r9 ../bhja-$(V_BH).zip bhcontent
