@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-10 21:43+0900\n"
+"PO-Revision-Date: 2024-02-10 22:08+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -17134,37 +17134,37 @@ msgid "Malachite Supplications"
 msgstr ""
 
 msgid "Malady"
-msgstr ""
+msgstr "病弊"
 
 msgid "Malady: Acusis"
-msgstr ""
+msgstr "病弊: Acusis"
 
 msgid "Malady: Cured!"
-msgstr ""
+msgstr "病弊: Cured!"
 
 msgid "Malady: Despair"
-msgstr ""
+msgstr "病弊: Despair"
 
 msgid "Malady: Duendracy"
-msgstr ""
+msgstr "病弊: Duendracy"
 
 msgid "Malady: Fascination"
-msgstr ""
+msgstr "病弊: Fascination"
 
 msgid "Malady: Gisting"
-msgstr ""
+msgstr "病弊: Gisting"
 
 msgid "Malady: Inflicted!"
-msgstr ""
+msgstr "病弊: Inflicted!"
 
 msgid "Malady: Shell-Crossed"
-msgstr ""
+msgstr "病弊: Shell-Crossed"
 
 msgid "Malady: Sickness"
-msgstr ""
+msgstr "病弊: Sickness"
 
 msgid "Malady: Westengryre"
-msgstr ""
+msgstr "病弊: Westengryre"
 
 msgid "Malskær illuminates the evolutions of the Names of the Grail with unfortunate clarity. It seems that a Lovely who consumes an Ivory becomes an Ivory. A Lovely who consumes a Thirstly becomes a Thirstly. A Lovely who consumes a Name of another Hour might take its place..."
 msgstr ""
@@ -22644,7 +22644,7 @@ msgid "Something half-buried in the sand..."
 msgstr ""
 
 msgid "Something has snared or sickened my soul. [Soul cards can be Malady-tainted when you're exposed to dangerous influences - sometimes when you fail in a task. Maladies cannot be exhausted, but your soul is altered and weakened, and there can be serious consequences if they go untreated.]"
-msgstr ""
+msgstr "私の魂は何かに捕らわれ病んでいる。 [ソウルカードは、あなたが危険な影響に晒された時、時には仕事に失敗した時に、病弊に汚染されることがあります。病弊は疲れることはありませんが、魂は変化し弱くなり治療しないままだと深刻な結果を招くかも知れません。]"
 
 msgid "Something in the Wind?"
 msgstr ""
@@ -30234,7 +30234,7 @@ msgid "[Abilities, skills, and personal resources.]"
 msgstr ""
 
 msgid "[Add Ink.]"
-msgstr ""
+msgstr "[インクを追加します]"
 
 msgid "[Add a Numa-related Incident that this visitor might discuss.]"
 msgstr ""
@@ -30249,7 +30249,7 @@ msgid "[Add a Soul card.]"
 msgstr "[ソウルカードを追加します]"
 
 msgid "[Add a Thing card.] "
-msgstr ""
+msgstr "[事物カードを追加します]"
 
 msgid "[Add an Element of the Soul to win a victory. Or record a History in your Journal to win a major one.]"
 msgstr ""
@@ -30264,7 +30264,7 @@ msgid "[Add any appropriate Sustenance card.]"
 msgstr ""
 
 msgid "[Anything that matches the Aspects below can go in this slot.]"
-msgstr "[以下の属性に一致するものを、このスロットに入れることが出来ます。]"
+msgstr "[以下の属性に一致するものを、このスロットに入れることが出来ます]"
 
 msgid "[Catalogue this to learn more]"
 msgstr ""
