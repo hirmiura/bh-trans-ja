@@ -18,13 +18,13 @@ pydantic    = "^2.6"
 chardet     = "^5.2"
 dirtyjson   = "^1.0"
 jsonpath-ng = "^1.6"
-polib = "^1.2.0"
+polib       = "^1.2"
 
 
 [tool.poetry.group.dev.dependencies]
-mypy   = "^1.8"
-pytest = "^8.0"
-types-polib = "^1.2.0.20240115"
+mypy        = "^1.8"
+pytest      = "^8.0"
+types-polib = "^1.2"
 
 
 [build-system]
@@ -59,7 +59,8 @@ ignore = [ "D400", "D415" ]
 
 
 [tool.ruff.lint.per-file-ignores]
-"__init__.py" = [ "E402" ]
+"__init__.py" = [ "D1", "E402", "F401" ]
+"tests/*"     = [ "D1" ]
 
 
 [tool.ruff.lint.pydocstyle]
