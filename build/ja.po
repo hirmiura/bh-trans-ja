@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-10 22:08+0900\n"
+"PO-Revision-Date: 2024-02-11 07:06+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -12402,7 +12402,7 @@ msgid "Five Creations"
 msgstr ""
 
 msgid "Five Pound Note"
-msgstr ""
+msgstr "5ポンド札"
 
 msgid "Five shillings; one-quarter of a pound."
 msgstr ""
@@ -13221,7 +13221,7 @@ msgid "Hail"
 msgstr ""
 
 msgid "Half Crown"
-msgstr ""
+msgstr "半クラウン"
 
 msgid "Half a pound; but not half a note. A recent innovation."
 msgstr ""
@@ -19324,7 +19324,7 @@ msgid "One Hundred And Eight"
 msgstr ""
 
 msgid "One Pound Note"
-msgstr ""
+msgstr "1ポンド札"
 
 msgid "One Thousand Threads"
 msgstr ""
@@ -19964,10 +19964,10 @@ msgid "Peel has already consulted this book. [A Visitor can only benefit once fr
 msgstr ""
 
 msgid "Pence"
-msgstr ""
+msgstr "ペンス"
 
 msgid "Penny"
-msgstr ""
+msgstr "ペニー"
 
 msgid "Pentiments & Precursors"
 msgstr ""
@@ -20101,10 +20101,10 @@ msgid "Perugian Diaries"
 msgstr ""
 
 msgid "Pet Cat"
-msgstr ""
+msgstr "飼い猫"
 
 msgid "Pet Gull"
-msgstr ""
+msgstr "飼いカモメ"
 
 msgid "Peterhans asserts casually that the rousing liquor called 'Rubywise Ruin', which Leaves & Thorns techniques can brew from flowers, was a favourite of the notoriously severe Baron Thomas. If true, this would have raised eyebrows had it been known in his lifetime..."
 msgstr ""
@@ -21961,7 +21961,7 @@ msgid "Seven Faces of Icarus"
 msgstr ""
 
 msgid "Seven Pound Note"
-msgstr ""
+msgstr "7ポンド札"
 
 msgid "Seven Shards"
 msgstr ""
@@ -22069,13 +22069,13 @@ msgid "Shelter?"
 msgstr ""
 
 msgid "Shilling"
-msgstr ""
+msgstr "シリング"
 
 msgid "Shiny! Ish. [There are Prentice-level Lantern recipes which can craft this.]"
 msgstr ""
 
 msgid "Shivers wrack my soaked body. [Your health is failing. Find somewhere to warm up.]"
-msgstr "ずぶぬれの体を震えが襲う。 [あなたの健康状態は悪化しています。体を温める場所を見つけましょう。]"
+msgstr "ずぶ濡れの体を震えが襲う。 [あなたの健康状態は悪化しています。体を温める場所を見つけましょう。]"
 
 msgid "Shohei's preferred theories are that we are the children of apes who walked upright, although his tone here is satirical; or that we consumed not only our parents, 'which is not the Crime of the Sky', but also our origin, so that we came from Nowhere."
 msgstr ""
@@ -22935,19 +22935,19 @@ msgid "Spilt paint is worse even than spilt ink. [There is a Prentice-level Moth
 msgstr ""
 
 msgid "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth five shillings.]"
-msgstr ""
+msgstr "スピントリアは法定通貨ではない。しかし、郵便局長が私から購入することを妨げる法律はない。おそらく彼女はそれを集めているだろう。 [これは5シリングの価値]"
 
 msgid "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth one pound and ten shillings.]"
-msgstr ""
+msgstr "スピントリアは法定通貨ではない。しかし、郵便局長が私から購入することを妨げる法律はない。おそらく彼女はそれを集めているだろう。 [これは1ポンド10シリングの価値]"
 
 msgid "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth one pound.]"
-msgstr ""
+msgstr "スピントリアは法定通貨ではない。しかし、郵便局長が私から購入することを妨げる法律はない。おそらく彼女はそれを集めているだろう。 [これは1ポンドの価値]"
 
 msgid "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth ten shillings.]"
-msgstr ""
+msgstr "スピントリアは法定通貨ではない。しかし、郵便局長が私から購入することを妨げる法律はない。おそらく彼女はそれを集めているだろう。 [これは10シリングの価値]"
 
 msgid "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth two pounds.]"
-msgstr ""
+msgstr "スピントリアは法定通貨ではない。しかし、郵便局長が私から購入することを妨げる法律はない。おそらく彼女はそれを集めているだろう。 [これは2ポンドの価値]"
 
 msgid "Spire"
 msgstr ""
@@ -23447,7 +23447,7 @@ msgid "Tall Parcel"
 msgstr ""
 
 msgid "Tally"
-msgstr ""
+msgstr "タリー"
 
 msgid "Tally Price"
 msgstr ""
@@ -23492,7 +23492,7 @@ msgid "Telescope"
 msgstr "望遠鏡"
 
 msgid "Ten Shilling Note"
-msgstr ""
+msgstr "10シリング札"
 
 msgid "Ten shillings, discarnated into lesser coins."
 msgstr ""
@@ -25256,7 +25256,7 @@ msgid "The amount payable in the coin of the realm."
 msgstr ""
 
 msgid "The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering."
-msgstr ""
+msgstr "クリストファー・イルポーリーの注釈付き夢日記、「読みやすい文章を書く唯一のオカルト主義者」と呼ばれることもあり、文学的、娯楽的、困惑的な内容である。"
 
 msgid "The antiquarian and nyctodromist Ambrose Westcott writes of the 'dangers of doors', with particular reference to a house in the bounds named 'Treowen'."
 msgstr ""
@@ -27714,7 +27714,7 @@ msgid "Three lesser notes. 'Thus is Equilibrium maintained.'"
 msgstr ""
 
 msgid "Threepence"
-msgstr ""
+msgstr "3ペンス"
 
 msgid "Through all the Isle's long years, the gulls, heedless of our affairs, have taken their due from the sea and returned it to the rocks. Careful where you step."
 msgstr ""
@@ -28099,7 +28099,7 @@ msgid "Tuned in an unlikely city to ensure its chimes attract the attention of t
 msgstr ""
 
 msgid "Tuppence"
-msgstr ""
+msgstr "タペンス"
 
 msgid "Tuppence will buy me a hearty meal and a quiet place where I can rest and gather my thoughts."
 msgstr ""
@@ -28120,37 +28120,37 @@ msgid "Turns an order form back into a delivery"
 msgstr ""
 
 msgid "Turpentine"
-msgstr ""
+msgstr "テレビン油"
 
 msgid "Tutoring: Cracktrack"
-msgstr ""
+msgstr "教師: クラックトラック"
 
 msgid "Tutoring: Deep Mandaic"
-msgstr ""
+msgstr "教師: ディープマンダ語"
 
 msgid "Tutoring: Ericapaean"
-msgstr ""
+msgstr "教師: エリカペアン"
 
 msgid "Tutoring: Fucine"
-msgstr ""
+msgstr "教師: フチーノ語"
 
 msgid "Tutoring: Hyksos"
-msgstr ""
+msgstr "教師: ヒクソス"
 
 msgid "Tutoring: Kernewek Henavek"
-msgstr ""
+msgstr "教師: ケルネヴェク・ヘナヴェク"
 
 msgid "Tutoring: Killasimi"
-msgstr ""
+msgstr "教師: キラシミ"
 
 msgid "Tutoring: Ramsund"
-msgstr ""
+msgstr "教師: ラムスンド"
 
 msgid "Tutoring: Sabazine"
-msgstr ""
+msgstr "教師: サバジン"
 
 msgid "Tutoring: Vak"
-msgstr ""
+msgstr "教師: ヴャック語"
 
 msgid "Twelve pence or, if you prefer, one-twentieth of a pound."
 msgstr ""
@@ -28237,7 +28237,7 @@ msgid "Two shillings - twenty-four pence - will hire this one's services."
 msgstr ""
 
 msgid "Twopence"
-msgstr ""
+msgstr "2ペンス"
 
 msgid "Typewriter"
 msgstr ""
@@ -30031,49 +30031,49 @@ msgid "Writing"
 msgstr ""
 
 msgid "Written in Aramaic"
-msgstr ""
+msgstr "アラム語の文書"
 
 msgid "Written in Cracktrack"
-msgstr ""
+msgstr "クラックトラックの文章"
 
 msgid "Written in Deep Mandaic"
-msgstr ""
+msgstr "ディープマンダ語の文書"
 
 msgid "Written in Ericapaean"
-msgstr ""
+msgstr "エリカペアンの文章"
 
 msgid "Written in Fucine"
-msgstr ""
+msgstr "フチーノ語の文書"
 
 msgid "Written in Greek"
-msgstr ""
+msgstr "ギリシャ語の文書"
 
 msgid "Written in Hyksos"
-msgstr ""
+msgstr "ヒクソスの文書"
 
 msgid "Written in Kernewek Henavek"
-msgstr ""
+msgstr "ケルネヴェク・ヘナヴェクの文書"
 
 msgid "Written in Killasimi"
-msgstr ""
+msgstr "キラシミの文書"
 
 msgid "Written in Latin"
-msgstr ""
+msgstr "ラテン語の文書"
 
 msgid "Written in Phrygian"
-msgstr ""
+msgstr "フリュギア語の文書"
 
 msgid "Written in Ramsund"
-msgstr ""
+msgstr "ラムスンドの文章"
 
 msgid "Written in Sabazine"
-msgstr ""
+msgstr "サバジンの文章"
 
 msgid "Written in Sanskrit"
-msgstr ""
+msgstr "サンスクリット語の文書"
 
 msgid "Written in Vak"
-msgstr ""
+msgstr "ヴャック語の文書"
 
 msgid "Written in the third person by Valentine Dewulf. Rarely coherent, though it includes some useful footnotes on falconry and on exotic veterinary medicine."
 msgstr ""
