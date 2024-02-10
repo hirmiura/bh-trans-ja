@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-10 20:58+0900\n"
+"PO-Revision-Date: 2024-02-10 21:43+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -2256,7 +2256,7 @@ msgid "'There are things I need to know.' [If there's an Incident card active, y
 msgstr ""
 
 msgid "'There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on your journey - the seas around Brancrug are treacherous...'"
-msgstr ""
+msgstr "'火災から7年来、ハッシュハウスには司書がいません。適切な候補者を見つけるのは非常に困難ですが、あなたにそれを見い出したのかも知れません。旅には気をつけて下さい。ブランクルグ周辺の海は危険です……'"
 
 msgid "'There is a tale that the Vagabond planted a black and white garden in Miah, before the curse, where the Moth would come at night. There are always tales…' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]"
 msgstr ""
@@ -13552,7 +13552,7 @@ msgid "Here the monastic superiors would meet to manage the affairs of St Branda
 msgstr ""
 
 msgid "Here the sea ends and the world begins (or the other way around). After storms, the fishermen of Brancrug Village find oddities washed up here."
-msgstr ""
+msgstr "ここで海が終わり、世界が始まる(あるいはその逆)。嵐の後、ブランクルグ村の漁師たちは、ここに打ち上げられた奇妙なものを見つける。"
 
 msgid "Here the supplies came in, from every continent that the seas touch - from the Bounds, and beyond. Now and then prisoners would try to escape, but the sea is always hungry."
 msgstr ""
@@ -13971,7 +13971,7 @@ msgid "I am well acquainted with this text."
 msgstr ""
 
 msgid "I began before this book, but it'll end when I do."
-msgstr ""
+msgstr "この本の前から始めたが、私がする時に終わるだろう。"
 
 msgid "I bought a round for everyone. And another. And one more for luck. And thus was I accounted 'not so bad for a foreigner'. I'll find a warmer welcome here next time."
 msgstr ""
@@ -16059,7 +16059,7 @@ msgid "Joel of the Bridge, a retired soldier and sometime tollkeeper, wrote this
 msgstr ""
 
 msgid "Journal"
-msgstr ""
+msgstr "日誌"
 
 msgid "Journal of Sir David Greene, 1903"
 msgstr ""
@@ -26788,7 +26788,7 @@ msgid ""
 msgstr ""
 
 msgid "There are storms great enough to shake the moon from the sky, and one's thoughts from one's skull."
-msgstr "空から月を揺り動かし、頭蓋骨からその思考を揺り動かすほどの大嵐がある。"
+msgstr "空から月を揺り動かし、頭蓋骨からその思考を揺り動かすほどの大嵐。"
 
 msgid "There are twelve verses. In the first, an ascendant Hour identified as the Scarred One enumerates his justifications for destroying the Seven-Coiled: its appetites, its growth, its enmity to humanity. In the second, a priestess puts out his eyes and scars his skin to protect him against the Seven-Coiled's magics. In each of the next seven verses, he destroys one aspect of the Seven-Coiled...."
 msgstr ""
