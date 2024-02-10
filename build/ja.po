@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: core.json Version 2024.1.e.9\n"
-"PO-Revision-Date: 2024-02-08 23:27+0900\n"
+"PO-Revision-Date: 2024-02-10 20:58+0900\n"
 "Last-Translator: Hiroshi Miura <hirmiura@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -74,7 +74,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/VERB_COLLECT"
 msgid "$Collect <smallcaps>[{SETTING:kbcollectall}]</smallcaps> "
-msgstr ""
+msgstr "$収集 <smallcaps>[{SETTING:kbcollectall}]</smallcaps> "
 
 msgctxt "/cultures/en/uilabels/UI_FASTERSPEED"
 msgid ""
@@ -110,7 +110,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/VERB_REFILL"
 msgid "$Refill <smallcaps>[{SETTING:kbrefillslots}]</smallcaps> "
-msgstr ""
+msgstr "$再充填 <smallcaps>[{SETTING:kbrefillslots}]</smallcaps> "
 
 msgctxt "/cultures/en/uilabels/UI_SLOWERSPEED"
 msgid ""
@@ -120,7 +120,7 @@ msgstr ""
 
 msgctxt "/cultures/en/uilabels/VERB_START"
 msgid "$Start <smallcaps>[{SETTING:kbstartrecipe}]</smallcaps> "
-msgstr ""
+msgstr "$開始 <smallcaps>[{SETTING:kbstartrecipe}]</smallcaps> "
 
 msgctxt "/cultures/en/uilabels/UI_UNLOCK"
 msgid "$Unlock <smallcaps>[{SETTING:kbstartrecipe}]</smallcaps> "
@@ -2136,7 +2136,7 @@ msgid "'The finest artisans all dream of the White Door in the end. I'm no artis
 msgstr ""
 
 msgid "'The gentleman makes things his servants. The petty man is servant to things.' - Master Xun"
-msgstr ""
+msgstr "'The gentleman makes things his servants. The petty man is servant to things.' - 荀子"
 
 msgid "'The glossed version?'"
 msgstr ""
@@ -4273,7 +4273,7 @@ msgid "A Determination?"
 msgstr ""
 
 msgid "A Drowned Book"
-msgstr ""
+msgstr "びしょ濡れの本"
 
 msgid "A Fair Arrangement?"
 msgstr ""
@@ -11473,7 +11473,7 @@ msgid "Elegiac Poet's Assistance"
 msgstr ""
 
 msgid "Element of the Soul"
-msgstr ""
+msgstr "魂の要素"
 
 msgid "Element of the Soul?"
 msgstr ""
@@ -13402,13 +13402,13 @@ msgid "Health"
 msgstr ""
 
 msgid "Health [Freezing]"
-msgstr ""
+msgstr "Health [こごえる]"
 
 msgid "Health [Half-Drowned]"
-msgstr ""
+msgstr "Health [半溺死]"
 
 msgid "Health [fatigued]"
-msgstr ""
+msgstr "Health [疲労]"
 
 msgid "Health marker"
 msgstr ""
@@ -15204,7 +15204,7 @@ msgid "In our History, this grows only on the uncanny hybrids we call 'Mare-bles
 msgstr ""
 
 msgid "In peril of dissolution! Intervene quickly, but not hastily."
-msgstr ""
+msgstr "消滅の危機！迅速に介入せよ、されど慌てるな。"
 
 msgid "In spring as the days warm, blue crown still blossoms for a little while."
 msgstr ""
@@ -17382,7 +17382,7 @@ msgid "Memories"
 msgstr "追憶"
 
 msgid "Memories and Lessons"
-msgstr ""
+msgstr "追憶と教訓"
 
 msgid "Memories don't last as long outside books. But it's made a difference for the day."
 msgstr ""
@@ -20701,7 +20701,7 @@ msgid "Read a Letter"
 msgstr ""
 
 msgid "Readable"
-msgstr ""
+msgstr "読める"
 
 msgid "Reading Lamp"
 msgstr ""
@@ -21073,7 +21073,7 @@ msgid "Remains"
 msgstr ""
 
 msgid "Remember"
-msgstr ""
+msgstr "思い出す"
 
 msgid ""
 "Remember the parables of the old teachings. \n"
@@ -21569,7 +21569,7 @@ msgid "Salty and savoury."
 msgstr ""
 
 msgid "Salvage"
-msgstr ""
+msgstr "サルベージ"
 
 msgid "Salvaged windfalls, lumpy but tasty."
 msgstr ""
@@ -22075,7 +22075,7 @@ msgid "Shiny! Ish. [There are Prentice-level Lantern recipes which can craft thi
 msgstr ""
 
 msgid "Shivers wrack my soaked body. [Your health is failing. Find somewhere to warm up.]"
-msgstr ""
+msgstr "ずぶぬれの体を震えが襲う。 [あなたの健康状態は悪化しています。体を温める場所を見つけましょう。]"
 
 msgid "Shohei's preferred theories are that we are the children of apes who walked upright, although his tone here is satirical; or that we consumed not only our parents, 'which is not the Crime of the Sky', but also our origin, so that we came from Nowhere."
 msgstr ""
@@ -22368,7 +22368,7 @@ msgid "So we can see, or so we can celebrate."
 msgstr ""
 
 msgid "Soaked"
-msgstr ""
+msgstr "びしょ濡れ"
 
 msgid "Soaked with the sun of forgotten evenings, in the times when Kitty Mazarine was contracted to another, but knew too the contracted number of his days…"
 msgstr ""
@@ -22686,7 +22686,7 @@ msgid "Something on the wind… [There are Prentice-level Sky recipes which can 
 msgstr ""
 
 msgid "Something remembered might be something understood. [Memories can be used to help with crafting and to upgrade Skills. Memories disappear each dawn - except Persistent ones.]"
-msgstr ""
+msgstr "記憶されたものは、理解されたものかも知れない。 [追憶はクラフトやスキルのアップグレードに使用できます。追憶は夜明け毎に消滅します。]"
 
 msgid "Something set helpfully aside."
 msgstr ""
@@ -25464,7 +25464,7 @@ msgid "The cobwebs here are thick as ivy, clinging to the walls and furniture. B
 msgstr ""
 
 msgid "The cold comes first"
-msgstr ""
+msgstr "寒さが先に来る"
 
 msgid "The colour, perhaps, of the doors of the House of the Moon."
 msgstr ""
@@ -25852,7 +25852,7 @@ msgid "The human soul has nine parts. Exuberance, enthusiasm, instinct all rise 
 msgstr ""
 
 msgid "The human soul is composed of nine elements, and this is one. Most other things have simpler souls. [Each Soul card can be used once a day, for the kind of things you do with your soul. That usually means 'talking to people' or 'crafting'.]"
-msgstr ""
+msgstr "人間の魂は9つの要素から構成されていますが、これはその1つです。他のほとんどの物はより単純な魂を持っています。 [各ソウルカードは、1日1回、自分の魂を行動のために使用できます。それは通常「人と話す」や「もの作り」を意味します。]"
 
 msgid "The human soul is composed of nine elements... [Remember what you were, with the help of your journal.]"
 msgstr ""
@@ -26100,7 +26100,7 @@ msgid "The one known extant copy of this in Western Europe was stolen from the B
 msgstr ""
 
 msgid "The one possession I kept from the shipwreck. It must be important to me. [The Aspects below tell you more about how and where you can use this item. Mouse over them to learn more.]"
-msgstr ""
+msgstr "難破船から持ち出した唯一の所有物。私にとっては重要な物のはずです。 [下部に表示される属性は、このアイテムをどこでどのように使用できるかを表しています。マウスを上に置くと詳細が表示されます。]"
 
 msgid "The only piece of furniture Kitty Mazarine brought East."
 msgstr ""
@@ -26788,7 +26788,7 @@ msgid ""
 msgstr ""
 
 msgid "There are storms great enough to shake the moon from the sky, and one's thoughts from one's skull."
-msgstr ""
+msgstr "空から月を揺り動かし、頭蓋骨からその思考を揺り動かすほどの大嵐がある。"
 
 msgid "There are twelve verses. In the first, an ascendant Hour identified as the Scarred One enumerates his justifications for destroying the Seven-Coiled: its appetites, its growth, its enmity to humanity. In the second, a priestess puts out his eyes and scars his skin to protect him against the Seven-Coiled's magics. In each of the next seven verses, he destroys one aspect of the Seven-Coiled...."
 msgstr ""
@@ -26800,7 +26800,7 @@ msgid "There are words here which ooze blood - a bloodlines infection. As I wipe
 msgstr ""
 
 msgid "There are worse things to put in your eyes than this."
-msgstr ""
+msgstr "目に入れるものとしては、これより悪いものがある。"
 
 msgid "There have been many attempts to depict the House of the Sun. This, by the visionary painter known only as the Magyar, is the best known. It's signed and dated - if it's really the original, it must count as one of the great treasures of the House."
 msgstr ""
@@ -27091,7 +27091,7 @@ msgid "They're not lenses; just plain glass! But a certain sort of visitor is di
 msgstr ""
 
 msgid "Thing"
-msgstr ""
+msgstr "事物"
 
 msgid "Thirza Blake claimed that she first synthesised this from her own tears. She was almost certainly lying."
 msgstr ""
@@ -27726,10 +27726,10 @@ msgid "Through the enumeration of the Grail's enticements and torments winds the
 msgstr ""
 
 msgid "Thunder growling. Waves pounding..."
-msgstr ""
+msgstr "うなる雷。波が打ちつけ……"
 
 msgid "Thunder growling. Waves pounding... and finally me, sprawled on the sodden sand of the beach. There's something in my hand."
-msgstr ""
+msgstr "うなる雷。波が打ちつけ……そしてついに私は、浜辺のよどんだ砂の上に寝転がった。私の手には何かが握られている。"
 
 msgid "Thunder prowls the entrance to this cave - a dying curse, or a capricious storm-spirit? It must be dealt with carefully."
 msgstr ""
@@ -29443,7 +29443,7 @@ msgid "What comes? Neither of us knows yet, but we will."
 msgstr ""
 
 msgid "What do I have left to work with?"
-msgstr ""
+msgstr "何に取り組むべきでしょうか？"
 
 msgid "What happens in Numa, stays in Numa. Generally."
 msgstr ""
@@ -30264,7 +30264,7 @@ msgid "[Add any appropriate Sustenance card.]"
 msgstr ""
 
 msgid "[Anything that matches the Aspects below can go in this slot.]"
-msgstr ""
+msgstr "[以下の属性に一致するものを、このスロットに入れることが出来ます。]"
 
 msgid "[Catalogue this to learn more]"
 msgstr ""
