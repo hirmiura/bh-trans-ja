@@ -52,7 +52,7 @@ Book of Hours
 2. POTファイル`core.pot`を生成する
    * `genpot.py -c bhtrans.toml`
      * 翻訳対象を抽出する
-     * `msgctxt`に`core.json`でのJSONPathを使う
+     * `msgctxt`に`core.json`でのJSONPointerを使う
        * コンテキストが付くのは`/cultures/en/*`のみ(2024-02-07時点)
    * `msguniq -s build/core.pot -o build/core.pot`
      * 重複を削除する
