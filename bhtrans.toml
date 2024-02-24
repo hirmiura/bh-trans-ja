@@ -6,7 +6,7 @@ input_mo           = 'build/ja.mo'
 output_json_prefix = 'build/ja_'
 output_culture     = 'build/culture.json'
 
-pid_version = 'core.json Version 2024.1.e.9'
+pid_version = 'core.json Version 2024.2.e.11'
 
 [rules.achievements]
 extracts = [ '.+/(label|descriptionunlocked)$' ]
